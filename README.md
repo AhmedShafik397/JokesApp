@@ -1,0 +1,2 @@
+# JokesApp
+.net Core
